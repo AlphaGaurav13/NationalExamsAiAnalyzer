@@ -1,2 +1,2 @@
 # NationalExamsAiAnalyzer
-Currently On developing equations! ;)
+Currently developing equations! ;)
